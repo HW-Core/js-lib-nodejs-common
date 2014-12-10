@@ -1,0 +1,11 @@
+{
+  "name": "hw2/modules/js/src/library/nodejs/common",
+  "devDependencies": {
+    "%tests": "hw2-core/js-library-nodejs-common#tests",
+    "%doc": "hw2-core/js-library-nodejs-common#doc"
+  },
+  "keep": [
+    ".git/config"
+  ],
+  "license": "http://www.hyperweb2.com/terms"
+}
