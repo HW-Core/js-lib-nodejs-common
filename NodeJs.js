@@ -5,9 +5,9 @@
 
 'use strict';
 
-hw2.define([
-    "hw2!{PATH_JS_LIB}nodejs/common/include.js",
-    "hw2!{PATH_JS_LIB}common/index.js"
+hwc.define([
+    "hwc!{PATH_JS_LIB}nodejs/common/include.js",
+    "hwc!{PATH_JS_LIB}common/index.js"
 ], function () {
     var $ = this;
     $.NodeJs = $.Class({});
